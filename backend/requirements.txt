@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+pydantic-settings
+supabase-pydantic
+openai
+anthropic
+langchain-text-splitters
+tenacity
+supabase
+
